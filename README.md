@@ -23,12 +23,12 @@ Welcome to the repository for IMDB App. This app is designed to provide users wi
 
 ## Installation
 
-To get started with My iOS Application, follow these steps:
+To get started with IMDB App, follow these steps:
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/my-ios-application.git
+   git clone git@github.com:nitrodamsel/Test-API-iOS-Application.git
 
 
 ## Project Structure
