@@ -6,13 +6,13 @@ Welcome to the repository for IMDB App. This app is designed to provide users wi
 
 ## Features
 
-- Log In screen
+- Log In screen  ![Login Screen](IMDbApp-main/snapshots/login-screen.png)
 - Dashboard Screen - contains Movies and Series binded to IMDB
- ![Dashboard Screen](https://your-image-host.com/series_details.png)
+ ![Dashboard Screen](IMDbApp-main/snapshots/dashboard-screen.png)
 - Popular Screen - could be series list or movie list, depends on User interaction binded to IMDB
- ![Popular Screen](https://your-image-host.com/series_details.png)
+ ![Popular Screen](IMDbApp-main/snapshots/popular-screen.png)
 - Movie/Series Details Screen - contains details of the selected Movie/Series binded to IMDB
- ![Movie/Series Details Screen](https://your-image-host.com/series_details.png)
+ ![Movie/Series Details Screen](IMDbApp-main/snapshots/details-screen.png)
 
 ## Technologies Used
 
